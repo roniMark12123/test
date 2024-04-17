@@ -1,3 +1,2 @@
-test/
-    __init__.py
-    main.py
+__init__.py
+main.py
